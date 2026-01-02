@@ -1,4 +1,4 @@
-# 🌐 3D Awwwards-Level Developer Portfolio
+# 🌐 3D Developer Portfolio Awwwards-Level 
 
 ### Built with React, GSAP, Three.js, TailwindCSS
 
@@ -17,7 +17,7 @@ This is a fully animated, interactive, 3D developer portfolio designed to **impr
 </div>
 <br/>
 
-> 📺 [Watch Full YouTube Walkthrough](https://youtu.be/i0229UsdBwc)
+
 ---
 
 ## 🚀 Tech Stack
@@ -47,7 +47,7 @@ This is a fully animated, interactive, 3D developer portfolio designed to **impr
 ## 📦 Setup & Installation
 
 ```bash
-git clone https://github.com/Ali-Sanati/awwwards-portfolio.git
+git clone https://github.com/NuralamMRH/portfolio-awwwards.git
 cd awwwards-portfolio
 npm install
 npm run dev
@@ -81,16 +81,4 @@ If this helped you build or inspire your own site:
 
 - ⭐ Star this repo
 
-- 📺 [Watch the full walkthrough on YouTube](https://youtu.be/i0229UsdBwc)
 
-- 📬 [Connect on LinkedIn](https://www.linkedin.com/in/ali-sanati)
-
-- 📷 [Follow me on Instagram](https://www.instagram.com/ali.sanatidev/reels/)
-
----
-
-## 🤝 Let’s Build Together
-
-Drop a comment on the video or open an issue with your idea!
-
-> 📩 Like, subscribe, and let me know what kind of project you want to build together!
