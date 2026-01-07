@@ -114,7 +114,7 @@ const Works = () => {
       >
         {projects.map((project, index) => (
           <div
-            key={project.id}
+            key={project.id + index}
             id="project"
             className="relative flex flex-col gap-1 py-5 cursor-pointer group md:gap-0"
             onMouseEnter={() => handleMouseEnter(index)}
